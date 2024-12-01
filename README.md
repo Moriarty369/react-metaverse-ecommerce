@@ -1,8 +1,10 @@
----
-
 # 🚀 **JuniorCrafters** 🚀
 
 **JuniorCrafters** is a web platform designed to offer coding courses through an online store. Students can explore various courses, purchase them, and gain access to high-quality educational materials.
+
+
+https://github.com/user-attachments/assets/1b4a0aed-730c-46e2-9780-3f6f1b7ee486
+
 
 ---
 
@@ -160,11 +162,8 @@ This Easter Egg is a playful exploration of UX/UI principles, where you can inte
 > **Note**: This feature is still in its beta phase, and we plan to expand its functionality with more interactive elements and experiences in future releases.
 
 ### 🖥️ **See the Metaverse in Action:**
-(Insert short video showing the Metaverse experience here)
-
 
 https://github.com/user-attachments/assets/2c4b0269-af12-4514-8ac9-bbb4627517ab
-
 
 ---
 
