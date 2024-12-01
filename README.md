@@ -7,7 +7,11 @@ https://github.com/user-attachments/assets/1b4a0aed-730c-46e2-9780-3f6f1b7ee486
 
 
 ---
+### 🖥️ **See the Metaverse in Action:**
 
+https://github.com/user-attachments/assets/2c4b0269-af12-4514-8ac9-bbb4627517ab
+
+---
 ## 🏆 **Hackathon Recognition**
 
 We are proud to announce that **JuniorCrafters** won **2nd place** at the **Hackathon February 2024** held in **Madrid**, organized by **Globant** and **Factoría F5**. This accomplishment showcases the dedication and innovation of our team.
@@ -160,10 +164,6 @@ As a fun addition to the platform, we've included a **Metaverse Easter Egg** as 
 This Easter Egg is a playful exploration of UX/UI principles, where you can interact with 3D elements designed using **Three.js**. It's a small reward for users who take the time to sign up, and serves as a demonstration of our ability to integrate advanced UI/UX concepts.
 
 > **Note**: This feature is still in its beta phase, and we plan to expand its functionality with more interactive elements and experiences in future releases.
-
-### 🖥️ **See the Metaverse in Action:**
-
-https://github.com/user-attachments/assets/2c4b0269-af12-4514-8ac9-bbb4627517ab
 
 ---
 
