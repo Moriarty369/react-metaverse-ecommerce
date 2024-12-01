@@ -7,6 +7,20 @@ https://github.com/user-attachments/assets/1b4a0aed-730c-46e2-9780-3f6f1b7ee486
 
 
 ---
+
+## 🎮 **Beta Version: Metaverse Easter Egg**
+
+As a fun addition to the platform, we've included a **Metaverse Easter Egg** as part of the beta version! This immersive experience is unlocked once a user completes their registration on the platform.
+
+### 🚪 **How to Access the Metaverse:**
+1. Register an account on the platform.
+2. After registration, a special button will appear on your dashboard, leading you into the Metaverse.
+
+This Easter Egg is a playful exploration of UX/UI principles, where you can interact with 3D elements designed using **Three.js**. It's a small reward for users who take the time to sign up, and serves as a demonstration of our ability to integrate advanced UI/UX concepts.
+
+> **Note**: This feature is still in its beta phase, and we plan to expand its functionality with more interactive elements and experiences in future releases.
+
+---
 ### 🖥️ **See the Metaverse in Action:**
 
 https://github.com/user-attachments/assets/2c4b0269-af12-4514-8ac9-bbb4627517ab
@@ -150,20 +164,6 @@ We welcome contributions to enhance **JuniorCrafters**. Here's how you can help:
    ```
 3. Make your changes and ensure all tests pass.  
 4. Submit a pull request to the main branch.
-
----
-
-## 🎮 **Beta Version: Metaverse Easter Egg**
-
-As a fun addition to the platform, we've included a **Metaverse Easter Egg** as part of the beta version! This immersive experience is unlocked once a user completes their registration on the platform.
-
-### 🚪 **How to Access the Metaverse:**
-1. Register an account on the platform.
-2. After registration, a special button will appear on your dashboard, leading you into the Metaverse.
-
-This Easter Egg is a playful exploration of UX/UI principles, where you can interact with 3D elements designed using **Three.js**. It's a small reward for users who take the time to sign up, and serves as a demonstration of our ability to integrate advanced UI/UX concepts.
-
-> **Note**: This feature is still in its beta phase, and we plan to expand its functionality with more interactive elements and experiences in future releases.
 
 ---
 
